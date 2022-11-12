@@ -1,0 +1,59 @@
+{
+  "alunos": [
+    {
+      "nome": "Alessandro Vieira",
+      "endereco": "Rua das Azaleas",
+      "bairro": "Vila Valqueire",
+      "cidade": "Rio de Janeiro",
+      "email": "alessandro.vieira@rj.senac.br",
+      "id_curso": 1,
+      "id": 1
+    },
+    {
+      "nome": "Maria Monsores",
+      "endereco": "Rua Pedro de Melo",
+      "bairro": "Padre Miguel",
+      "cidade": "Rio de Janeiro",
+      "email": "maria.monsores@gmail.com",
+      "id_curso": 2,
+      "id": 2
+    },
+    {
+      "nome": "João da Silva",
+      "endereco": "Rua XYZ",
+      "bairro": "Feliz",
+      "cidade": "Belo Horizonte",
+      "email": "silva.joao@gmail.com",
+      "id_curso": 2,
+      "id": 3
+    },
+    {
+      "nome": "Fátima Maria",
+      "endereco": "Rua das Laranjeiras",
+      "bairro": "Catete",
+      "cidade": "Rio de Janeiro",
+      "email": "maria.fatima@gmail.com",
+      "id_curso": 2,
+      "id": 4
+    },
+    {
+      "nome": "Guilherme",
+      "endereco": "Rua Hildebrando Maia",
+      "bairro": "Campo Grande",
+      "cidade": "Rio de Janeiro",
+      "email": "guilhermealbuquerques02@gmail.com",
+      "id_curso": 2,
+      "id": 5
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Técnico em Informática",
+      "id": 1
+    },
+    {
+      "nome": "Programadores Cariocas",
+      "id": 2
+    }
+  ]
+}
